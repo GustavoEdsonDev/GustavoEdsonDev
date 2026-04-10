@@ -44,7 +44,7 @@ Atualmente a frequentar o 3.º semestre de Análise e Desenvolvimento de Sistema
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoEdsonDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoEdsonDev&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoEdsonDev&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
 </div>
 
