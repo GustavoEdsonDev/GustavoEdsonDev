@@ -44,11 +44,7 @@ Atualmente a frequentar o 3.º semestre de Análise e Desenvolvimento de Sistema
 ---
 
 <div align="center">
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoEdsonDev&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/GustavoEdsonDev)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoEdsonDev&layout=compact&theme=dracula)](https://github.com/GustavoEdsonDev)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoEdsonDev&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoEdsonDev/GustavoEdsonDev/output/github-contribution-grid-snake-dark.svg">
