@@ -33,8 +33,6 @@ Atualmente a frequentar o 3.º semestre de Análise e Desenvolvimento de Sistema
 ---
 
 ### 🕹️ Além do código:
-- **Gaming:** Nas horas vagas, podes encontrar-me em *Elden Ring*, *Baldur's Gate 3* ou a subir de nível no *osu!*.
-- **Cultura:** Grande fã de anime e manga (especialmente clássicos como *Cowboy Bebop* e *Evangelion*).
 - **Línguas:** Atualmente a aprender Italiano e a aperfeiçoar o meu Inglês.
 
 ---
