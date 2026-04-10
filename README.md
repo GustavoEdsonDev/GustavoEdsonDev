@@ -33,7 +33,7 @@ Atualmente a frequentar o 3.º semestre de Análise e Desenvolvimento de Sistema
 ---
 
 ### 🕹️ Além do código:
-- **Línguas:** Atualmente a aprender Italiano e a aperfeiçoar o meu Inglês.
+- **Línguas:** Atualmente a aprender Italiano e a aperfeiçoar o meu Inglês(C1).
 
 ---
 
