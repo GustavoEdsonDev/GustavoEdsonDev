@@ -2,15 +2,15 @@
 
 ### Desenvolvedor Full-Stack em formação | Estudante de ADS na Una Aimorés
 
-Atualmente a frequentar o 3.º semestre de Análise e Desenvolvimento de Sistemas, foco-me na criação de soluções modernas e eficientes para a web e dispositivos móveis. Sou um entusiasta de tecnologia, fã de personalização em Linux e apaixonado por resolver problemas através de código.
+Atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas, foco na criação de soluções modernas e eficientes para a web e dispositivos móveis. Sou um entusiasta de tecnologia, fã de personalização em Linux e apaixonado por resolver problemas através de código.
 
 ---
 
-### 🚀 No que estou a trabalhar atualmente:
+### 🚀 No que estou trabalhando atualmente:
 - **mercadodumato**: Uma plataforma de e-commerce dedicada à venda de produtos hortifrutigranjeiros.
-- **Gerenciador de Assinaturas**: Uma aplicação mobile desenvolvida com React Native e Expo Router para controlo de subscrições.
+- **Gerenciador de Assinaturas**: Uma aplicação mobile desenvolvida com React Native e Expo Router para controle de assinaturas.
 
-### 🛠️ O meu conjunto de tecnologias:
+### 🛠️ Minha stack de tecnologias:
 
 **Frontend & Mobile:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,7 +33,7 @@ Atualmente a frequentar o 3.º semestre de Análise e Desenvolvimento de Sistema
 ---
 
 ### 🕹️ Além do código:
-- **Línguas:** Atualmente a aprender Italiano e a aperfeiçoar o meu Inglês(C1).
+- **Idiomas:** Atualmente aprendendo Italiano e aperfeiçoando meu Inglês (C1).
 
 ---
 
