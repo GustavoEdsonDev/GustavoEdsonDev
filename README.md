@@ -25,11 +25,6 @@ Atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas, fo
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Ambiente & Ferramentas:**
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-*Entusiasta de Window Managers (Hyprland / Komorebi)*
-
 ---
 
 ### 🕹️ Além do código:
